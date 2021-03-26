@@ -1,0 +1,33 @@
+*** Settings ***
+Library           SeleniumLibrary
+Resource          ../公共的部分/公共元素.txt
+Resource          新建数据.txt
+
+*** Keywords ***
+点击新建Item
+    Click Element    link=新建Item
+
+输入一个任务名称
+    [Arguments]    ${rwmc}
+    Input Text    id=name    ${rwmc}
+
+选择类型
+    [Arguments]    ${num}=${number1}
+    Click Element    ${num}
+
+点击确定按钮
+    Click Element    id=ok-button
+
+点击保存按钮
+    [Arguments]    ${bc}
+    Click Element    ${bc}
+
+点击返回面板
+    Click Element    class=task-link
+
+删除Item
+    Click Element    Xpath=//*[@class="model-link inside"]
+    强制等待
+    Click Element    Xpath=//*[@id="tasks"]/div[7]/span/a
+    强制等待
+    Alert Should Be Present
