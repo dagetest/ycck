@@ -12,26 +12,26 @@ Resource          登录业务.txt
     登录    un=\
     隐式等待
     ${test}    Get text    Xpath=//*[@class="alert alert-danger"]
-    should contain    ${test}    Invalid username or password
+    should contain    ${test}    用户名或密码错误
     关闭浏览器
 
 03密码为空
     登录    pw=\
     隐式等待
     ${test}    Get text    Xpath=//*[@class="alert alert-danger"]
-    should contain    ${test}    Invalid username or password
+    should contain    ${test}    用户名或密码错误
     关闭浏览器
 
 04用户名错误
     登录    admins    123456
     隐式等待
     ${test}    Get text    Xpath=//*[@class="alert alert-danger"]
-    should contain    ${test}    Invalid username or password
+    should contain    ${test}    用户名或密码错误
     关闭浏览器
 
 05密码错误
     登录    admin    1234567
     隐式等待
     ${test}    Get text    Xpath=//*[@class="alert alert-danger"]
-    should contain    ${test}    Invalid username or password
+    should contain    ${test}    用户名或密码错误
     关闭浏览器
