@@ -4,13 +4,13 @@ Resource          ../公共的部分/公共数据.txt
 Resource          ../公共的部分/公共元素.txt
 
 *** Keywords ***
-登录
+登录流程
     [Arguments]    ${un}=${username}    ${pw}=${password}
     打开浏览器
-    隐式等待
+    强制等待
     输入用户名    ${un}
-    隐式等待
+    强制等待
     输入密码    ${pw}
-    隐式等待
+    强制等待
     点击登录按钮
     隐式等待

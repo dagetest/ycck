@@ -25,4 +25,4 @@ Resource          公共数据.txt
     Unselect Frame
 
 强制等待
-    sleep    3
+    sleep    1
