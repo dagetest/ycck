@@ -1,0 +1,6 @@
+*** Variables ***
+${username}       admin
+${password}       123456
+${url}            http://localhost:8080/
+${renwumingcheng}    管理后台
+${numbers}        //*[@id="j-add-item-type-standalone-projects"]/ul/li[1]
