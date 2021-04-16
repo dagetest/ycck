@@ -1,0 +1,3 @@
+2017-05-12 15:56:40 762 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:39) - MobileLpSem页面getFreeLesson1 出异常了
+2017-05-12 15:57:02 018 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-12 15:57:02 334 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了

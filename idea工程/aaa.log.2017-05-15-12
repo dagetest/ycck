@@ -1,0 +1,19 @@
+2017-05-15 12:01:21 374 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:39) - MobileLpSem页面getFreeLesson1 出异常了
+2017-05-15 12:01:21 624 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-15 12:01:21 995 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-15 12:01:22 288 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-15 12:01:22 693 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+
+2017-05-15 12:16:44 047 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-15 12:16:44 258 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-15 12:16:44 440 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-15 12:16:44 604 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+2017-05-15 12:17:02 686 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:39) - MobileLpSem页面getFreeLesson1 出异常了
+2017-05-15 12:17:02 863 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-15 12:17:03 039 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-15 12:17:03 282 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-15 12:17:03 448 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+2017-05-15 12:34:52 845 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-15 12:34:53 008 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-15 12:34:53 163 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-15 12:34:53 343 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了

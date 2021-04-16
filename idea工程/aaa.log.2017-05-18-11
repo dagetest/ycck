@@ -1,0 +1,16 @@
+2017-05-18 11:03:21 530 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:39) - MobileLpSem页面getFreeLesson1 出异常了
+2017-05-18 11:03:21 696 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-18 11:03:21 939 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-18 11:03:22 098 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-18 11:03:22 251 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+2017-05-18 11:03:53 987 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:39) - MobileLpSem页面getFreeLesson1 出异常了
+2017-05-18 11:03:58 171 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-18 11:03:58 347 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-18 11:03:58 496 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+2017-05-18 11:06:24 956 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:32) - MobileLpSem页面getFreeLesson 出异常了
+2017-05-18 11:06:25 315 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:39) - MobileLpSem页面getFreeLesson1 出异常了
+2017-05-18 11:06:25 917 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-18 11:06:26 177 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-18 11:06:26 456 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-18 11:06:26 879 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+2017-05-18 11:11:18 684 Thread-2 ERROR com.sele.demo.GuanWangShouYeGaoYiGaoErShuXue (GuanWangShouYeGaoYiGaoErShuXue.java:34) - 官网首页高一高二数学getFreeLesson 出异常了

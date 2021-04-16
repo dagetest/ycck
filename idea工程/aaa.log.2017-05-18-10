@@ -1,0 +1,11 @@
+2017-05-18 10:38:09 322 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
+2017-05-18 10:38:09 659 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:53) - MobileLpSem页面getFreeLesson3 出异常了
+2017-05-18 10:38:10 345 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:60) - MobileLpSem页面getFreeLesson4 出异常了
+2017-05-18 10:38:10 608 Thread-4 ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
+
+2017-05-18 10:59:41 205 main ERROR com.sele.demo.GuanWangShouYeChuSanShuXue (GuanWangShouYeChuSanShuXue.java:41) - 官网首页初三数学getFreeLesson1出异常了
+2017-05-18 10:59:45 071 main ERROR com.sele.demo.GuanWangShouYeChuSanHuaXue (GuanWangShouYeChuSanHuaXue.java:34) - 官网首页初三化学getFreeLesson出异常了
+2017-05-18 10:59:45 246 main ERROR com.sele.demo.GuanWangShouYeChuSanHuaXue (GuanWangShouYeChuSanHuaXue.java:41) - 官网首页初三化学getFreeLesson1出异常了
+2017-05-18 10:59:45 412 main ERROR com.sele.demo.GuanWangShouYeChuSanHuaXue (GuanWangShouYeChuSanHuaXue.java:48) - 官网首页初三化学getFreeLesson2出异常了
+2017-05-18 10:59:45 555 main ERROR com.sele.demo.GuanWangShouYeChuSanHuaXue (GuanWangShouYeChuSanHuaXue.java:55) - 官网首页初三化学getFreeLesson3出异常了
+2017-05-18 10:59:48 516 main ERROR com.sele.demo.GuanWangShouYeChuSanShuXue (GuanWangShouYeChuSanShuXue.java:48) - 官网首页初三数学getFreeLesson2出异常了
