@@ -3,7 +3,7 @@ package com.sele.demo;
 import java.sql.*;
 
 
-public class DBTools4Student {
+public class DBTools4Student1 {
     private static String userId = null;
     private static String stuId = null ;
 
