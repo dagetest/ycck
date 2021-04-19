@@ -1,4 +1,0 @@
-2017-05-12 13:40:11 092 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:46) - MobileLpSem页面getFreeLesson2 出异常了
-2017-05-12 13:40:36 675 main ERROR com.sele.demo.MobileLpSem (MobileLpSem.java:67) - MobileLpSem页面getFreeLesson5 出异常了
-2017-05-12 13:43:14 555 main ERROR com.sele.demo.MobileLpDsp (MobileLpFeed.java:53) - MobileLpFeed页面getFreeLesson3 出异常了
-2017-05-12 13:43:14 868 main ERROR com.sele.demo.MobileLpDsp (MobileLpFeed.java:60) - MobileLpFeed页面getFreeLesson4 出异常了
